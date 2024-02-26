@@ -9,6 +9,7 @@ class Empleado(Persona):
         print("Se crea una Empleado")
 
     def leer_Empleado(self):
+        
         print("Se lee el listado de Empleado")
 
     def actualizar_Empleado(self):
