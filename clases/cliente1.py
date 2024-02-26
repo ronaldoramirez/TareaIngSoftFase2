@@ -6,6 +6,7 @@ class Cliente1():
 
     def crear_Cliente1(self):
         print("Se crea una Cliente1")
+        
 
     def leer_Cliente1(self):
         print("Se lee el listado de Cliente1")
